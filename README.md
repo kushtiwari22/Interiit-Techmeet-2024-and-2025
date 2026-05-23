@@ -379,10 +379,3 @@ Future work includes:
 - Transformer-based forecasting
 - Better risk management techniques
 
----
-
-# Authors
-
-InterIIT 2024–2025
-
-Financial Market Prediction and Algorithmic Trading Research Project
